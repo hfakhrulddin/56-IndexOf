@@ -1,0 +1,6 @@
+C:\Div\Origin\56-IndexOf\Indexof-Key\Indexof-Key\bin\Debug\Indexof-Key.exe.config
+C:\Div\Origin\56-IndexOf\Indexof-Key\Indexof-Key\bin\Debug\Indexof-Key.exe
+C:\Div\Origin\56-IndexOf\Indexof-Key\Indexof-Key\bin\Debug\Indexof-Key.pdb
+C:\Div\Origin\56-IndexOf\Indexof-Key\Indexof-Key\obj\Debug\Indexof-Key.csprojResolveAssemblyReference.cache
+C:\Div\Origin\56-IndexOf\Indexof-Key\Indexof-Key\obj\Debug\Indexof-Key.exe
+C:\Div\Origin\56-IndexOf\Indexof-Key\Indexof-Key\obj\Debug\Indexof-Key.pdb
